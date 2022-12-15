@@ -20,3 +20,5 @@ Contents
 
    usage
    api
+
+Some changes
