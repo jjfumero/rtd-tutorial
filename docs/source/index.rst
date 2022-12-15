@@ -20,3 +20,6 @@ Contents
 
    usage
    api
+
+
+Checking the documentation build is triggered with Pull Requests
